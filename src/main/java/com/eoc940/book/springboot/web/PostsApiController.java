@@ -1,6 +1,5 @@
 package com.eoc940.book.springboot.web;
 
-import com.eoc940.book.springboot.domain.posts.Posts;
 import com.eoc940.book.springboot.service.posts.PostsService;
 import com.eoc940.book.springboot.web.dto.PostsResponseDto;
 import com.eoc940.book.springboot.web.dto.PostsSaveRequestDto;
