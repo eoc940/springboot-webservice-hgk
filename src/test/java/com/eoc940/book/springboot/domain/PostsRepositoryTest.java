@@ -2,7 +2,6 @@ package com.eoc940.book.springboot.domain;
 
 import com.eoc940.book.springboot.domain.posts.Posts;
 import com.eoc940.book.springboot.domain.posts.PostsRepository;
-import org.assertj.core.util.Lists;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
